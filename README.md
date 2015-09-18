@@ -1,4 +1,4 @@
-# Minetest_Double_Chest
+# Double_Chest
 Double Chest mod for minetest.
 by xfceKris
 
