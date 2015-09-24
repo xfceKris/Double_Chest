@@ -37,3 +37,10 @@ After placing a Double Chest, it will expand to occupy two blocks. Once placed, 
 
 See also:
 http://minetest.net/
+
+Thanks to:
+VanessaE
+ElectronLibre
+T4im
+
+at irc.freenode #minetest and #minetest-dev
