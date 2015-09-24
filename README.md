@@ -24,14 +24,14 @@ http://wiki.minetest.com/wiki/Installing_Mods
 
 How to use the mod:
 Craft a Double Chest like this:
-  -       -       -
-Chest   Chest   Chest
-  -       -       -
+[empty]   [empty]   [empty]
+[Chest]   [Chest]   [Chest]
+[empty]   [empty]   [empty]
 
 Craft a Locked Double Chest like this:
-  -    Steel Ingot      -
-Chest     Chest       Chest
-  -    Steel Ingot      -
+[empty]   [steel ingot]   [empty]
+[Chest]      [Chest]      [Chest]
+[empty]   [steel ingot]   [empty]
 
 After placing a Double Chest, it will expand to occupy two blocks. Once placed, the chest will function as a normal chest does.
 
