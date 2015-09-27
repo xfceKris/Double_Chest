@@ -39,8 +39,11 @@ See also:
 http://minetest.net/
 
 Thanks to:
+
 VanessaE
+
 ElectronLibre
+
 T4im
 
 at irc.freenode #minetest and #minetest-dev
